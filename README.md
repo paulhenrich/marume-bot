@@ -13,4 +13,4 @@ Put marume.coffee in your hubot's scripts directory
 ![maru](http://marume.herokuapp.com/random.gif?2-1424019102792)
 
 ---
-Contributions of maru gifs welcome at [marume-server](https://github.com/paulhenrich/marume-server/commits?author=paulhenrich)
+Contributions of maru gifs welcome at [marume-server](https://github.com/paulhenrich/marume-server)
